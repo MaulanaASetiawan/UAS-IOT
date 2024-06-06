@@ -31,3 +31,6 @@ Dalam kehidupan sehari-hari, kenyamanan di dalam ruangan sangat penting. Faktor-
 ### Hasil Pengujian Controlling
 
 <img src="assets/Controlling.png" alt="Beranda" width="766"/>
+
+### Link Video Pengujian
+[UAS-IoT-2024](https://youtu.be/3mRyPQj6w78)
