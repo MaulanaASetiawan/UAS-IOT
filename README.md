@@ -1,35 +1,33 @@
-# Nama Proyek
+# Pemantauan Suhu, Kelembapan, Kualitas Udara, dan Kontrol LED Menggunakan Kodular dengan Protokol MQTT dan HTTP
 
 <!-- Deskripsi singkat proyek Anda di sini. -->
 
 ## Penjelasan Singkat
 
-<!-- **Nama Proyek** adalah sebuah aplikasi yang [deskripsi aplikasi, misalnya: membantu pengguna untuk mengelola tugas harian mereka dengan lebih efektif]. Aplikasi ini dibangun menggunakan [teknologi yang digunakan, misalnya: Python dan Django] dan dirancang untuk [tujuan aplikasi, misalnya: meningkatkan produktivitas dan pengelolaan waktu]. -->
+Dalam kehidupan sehari-hari, kenyamanan di dalam ruangan sangat penting. Faktor-faktor seperti suhu, kelembapan, kualitas udara, dan pencahayaan dari sebuah lampu mempengaruhi kenyamanan dan efisiensi ruangan. Proyek ini bertujuan untuk mengintegrasikan sensor lingkungan dan mengontrol  lampu dalam satu sistem cerdas, memungkinkan pemantauan dan kontrol yang optimal untuk meningkatkan kenyamanan dan efisiensi ruangan.
 
 ## Fitur
 
-<!-- - **Fitur 1:** Deskripsi singkat fitur pertama.
-- **Fitur 2:** Deskripsi singkat fitur kedua.
-- **Fitur 3:** Deskripsi singkat fitur ketiga.
-- **Fitur 4:** Deskripsi singkat fitur keempat. -->
+- **Fitur 1:** Monitoring Suhu, Kelembapan, dan Kualitas Udara melalui Aplikasi Mobile.
+- **Fitur 2:** Kontrol LED menggunakan MQTT.
 
 ## Dokumentasi
 
 <!-- Berikut adalah beberapa tangkapan layar dari aplikasi: -->
 
-### Beranda
+### Diagram Blok
 
 <!-- ![Beranda](assets/icon.png) -->
-<img src="assets/icon.png" alt="Beranda" width="200"/>
+<img src="assets/Diagram Blok.png" alt="Beranda" width="766"/>
 
-### Halaman Tugas
+### Tampilan Aplikasi Mobile
 
-<!-- ![Halaman Tugas](path/to/tasks.png) -->
+<img src="assets/dashboardKodular.jpg" alt="Beranda" width="500"/>
 
-### Halaman Detail Tugas
+### Hasil Pengujian Monitoring
 
-<!-- ![Halaman Detail Tugas](path/to/task-detail.png) -->
+<img src="assets/Monitoring.png" alt="Beranda" width="766"/>
 
-### Halaman Tambah Tugas
+### Hasil Pengujian Controlling
 
-<!-- ![Halaman Tambah Tugas](path/to/add-task.png) -->
+<img src="assets/Controlling.png" alt="Beranda" width="766"/>
